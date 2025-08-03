@@ -1,3 +1,4 @@
 # coder-Akash
-this is my first github repository 
+this is my first Git repository.
+<br>
 Auther - Akash prasad
